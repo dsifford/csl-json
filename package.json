@@ -1,0 +1,9 @@
+{
+  "name": "csl-json",
+  "version": "0.1.0",
+  "description": "Useful TypeScript type definitions for dealing with CSL-JSON",
+  "types": "index.d.ts",
+  "keywords": ["CSL-JSON", "citation style language"],
+  "author": "Derek P Sifford <dereksifford@gmail.com>",
+  "license": "MIT"
+}
